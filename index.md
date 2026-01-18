@@ -1,4 +1,9 @@
 ---
-title: Welcome to my blog
+title: Welcome to my portfolio
 ---
 
+# Projects
+
+## Tech Stack
+
+### Internships/Experience
